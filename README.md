@@ -5,7 +5,7 @@ A collection of modular, feature-based Spring Boot starters for enterprise appli
 ## Modules
 
 ### Available Starters
-- **Transformer Sterter**: Automatically transforms string fields to title, sentence, lower and upper case using annotations
+- **Transformer Starter**: Automatically transforms string fields to title, sentence, lower and upper case using annotations
 
 ### Planned Starters
 - **AWS Starter**
